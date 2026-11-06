@@ -1,0 +1,19 @@
+body {
+	background-color: lightblue;
+}	
+
+h1, h2, h3 {
+	color: red;
+	font-family: Arial, sans-serif;
+}
+
+.destaque {
+    background-color: yellow;
+	margin: 30px;
+}	
+
+/*1. - A regra que eu achei mais difícil foi a do destaque, porque já tinha verificado várias vezes e não executava, mas entretanto descobri que para ficar destacado tinha de ir ao ficheiro do index.html.
+
+2. - O meu erro mais comum foi esquecer-me de fechar as chavetas.
+
+3. - O atributo href serve para indicar o destino de um link. Vem depois da etiqueta <a> e permite ao utilizador ir para outra página diferente.*/
